@@ -1,1 +1,1 @@
-export const DB_NAME="webapp-backend"
+export const DB_NAME="shoaib"
